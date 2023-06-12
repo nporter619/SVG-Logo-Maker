@@ -6,5 +6,6 @@ This application generates and SVG logo based off user input. I used node js and
 Clone the github repository, have node js installed or install it from the command line,npm install inquirer @8.2.4,also install jest with npm install jest. Run the test by using npm run test in the terminal once navigated to the directory. Run the SVG generator by typing in node index and give user input.
 ## Use:
 Run the test by using npm run test in the terminal once navigated to the directory. Run the SVG generator by typing in node index and give user input.
+Walkthrough Video: https://drive.google.com/file/d/1gAM-b7gqiCslTafmBZX9HemucnnE5M7n/view?usp=drive_link
 ## License:
 MIT
